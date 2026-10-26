@@ -988,7 +988,7 @@ function referenceHtml() {
     ${findField()}
     <div data-ref-body>${referenceBody(topic)}</div>
     <p class="find-empty" data-ref-empty hidden>Nothing on this page matches.</p>
-    <p class="colophon">Lessons 1 and 2 follow the class notes.</p>`, true);
+    <p class="colophon">Lessons 1, 2, and 3 follow the class notes.</p>`, true);
 }
 
 function topicCards() {

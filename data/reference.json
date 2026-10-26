@@ -755,9 +755,9 @@
     {
       "id": "particles",
       "title": "Particles",
-      "blurb": "The article, and the small words in the sentences.",
+      "blurb": "The small words from lesson 3, and how they take the article.",
       "kind": "particles",
-      "lead": "il- is the article from the class notes, including how it is formed. The other words are small patterns you meet in the sentences.",
+      "lead": "Lesson 3 calls these il-partiċelli: small words that show a relation. With the article, ma' + l- = mal-, ta' + l- = tal-, sa + l- = sal-, ġo + l- = ġol-, bi + l- = bil-, fi + l- = fil-, lil + l- = lill-, bħal + l- = bħall-, għal + l- = għall-, minn + l- = mill-. Before a sun consonant that l changes: għad-dar, fix-xemx, lin-nannu, ġos-sufan, bħaż-żunżan. fi and bi become f' and b' before one consonant, a vowel, għ, or h. sa, ma', and ta' may shorten before a vowel, għ, or h, but they do not have to.",
       "items": [
         {
           "word": "il-",
@@ -765,6 +765,76 @@
           "formed": "The article is il- or l-. Before a vowel, and before għ and h, use l-: l-art, l-omm, l-għasfur, l-hena. Before a sun consonant the l changes: iċ-ċavetta, id-dundjan, in-nanna, ir-raġel, is-sodda, it-tabib, ix-xalpa, iż-żarbun, iz-zokk. Before the other consonants, il- stays: il-missier, il-ktieb, il-qalb. The i is il-vokali tal-leħen. It also drops when the word before already ends in a vowel: Dan huwa l-pjanist.",
           "example": "l-omm, il-missier, iċ-ċavetta",
           "gloss": "the mother, the father, the key"
+        },
+        {
+          "word": "ma'",
+          "means": "with",
+          "formed": "With the article: ma' + l- = mal-. Before a vowel, għ, or h it may also shorten to m', but it does not have to: ma' ommi or m'ommi.",
+          "example": "Jiena ngħix ma' ommi.",
+          "gloss": "I live with my mum."
+        },
+        {
+          "word": "ta'",
+          "means": "of",
+          "formed": "With the article: ta' + l- = tal-. It may shorten before a vowel, għ, or h: ta' Alex or t'Alex.",
+          "example": "Dan il-mowbajl hu ta' Layla.",
+          "gloss": "This is the mobile of Layla."
+        },
+        {
+          "word": "sa",
+          "means": "until, as far as",
+          "formed": "With the article: sa + l- = sal-. It may shorten before a vowel, għ, or h: sa Għawdex or s'Għawdex.",
+          "example": "Stenna hawn sa ma tiġi t-tabiba.",
+          "gloss": "Wait here until the doctor comes."
+        },
+        {
+          "word": "ġo",
+          "means": "in",
+          "formed": "With the article: ġo + l- = ġol-. Before a sun consonant the l changes: ġos-sufan, not ġol-sufan.",
+          "example": "Poġġi kollox ġo kaxxa.",
+          "gloss": "Put everything in a box."
+        },
+        {
+          "word": "bi",
+          "means": "with",
+          "formed": "With the article: bi + l- = bil-. Before one consonant, a vowel, għ, or h it shortens to b': b'ajruplan kbir.",
+          "example": "Tpenġija bi ħsieb speċjali.",
+          "gloss": "A drawing with special intention."
+        },
+        {
+          "word": "fi",
+          "means": "in",
+          "formed": "With the article: fi + l- = fil-. Before a sun consonant the l changes: fix-xemx, fis-sodda, fiċ-ċinema. Before one consonant, a vowel, għ, or h it shortens to f': f'dar kbira. Before two consonants it stays fi: fi knisja.",
+          "example": "Fi ħsiebi u f'talbi.",
+          "gloss": "In my thoughts and prayers."
+        },
+        {
+          "word": "lil",
+          "means": "to",
+          "formed": "With the article: lil + l- = lill-. Before a sun consonant the l changes: lin-nannu, not lill-nannu.",
+          "example": "Ħa nibgħat ittra ta' mħabba lil maħbuba tiegħi.",
+          "gloss": "I am going to send a love letter to my beloved."
+        },
+        {
+          "word": "bħal",
+          "means": "like",
+          "formed": "With the article: bħal + l- = bħall-. Before a sun consonant the l changes: bħaż-żunżan, not bħall-żunżan.",
+          "example": "Dik il-libsa bħal tiegħek!",
+          "gloss": "That dress is like yours!"
+        },
+        {
+          "word": "għal",
+          "means": "for",
+          "formed": "With the article: għal + l- = għall-. Before a sun consonant the l changes: għad-dar, not għall-dar. The song uses għall-Marsamxett, because m is not a sun consonant.",
+          "example": "Minn tas-Sliema għall-Marsamxett.",
+          "gloss": "From Sliema to Marsamxett."
+        },
+        {
+          "word": "minn",
+          "means": "from",
+          "formed": "With the article: minn + l- = mill-. Before a sun consonant the l changes: mit-tieqa, not mill-tieqa.",
+          "example": "Wara x-xita beda dieħel l-ilma mill-bejt.",
+          "gloss": "After the rain, the water started coming in from the roof."
         },
         {
           "word": "ma … x",

@@ -1,0 +1,426 @@
+{
+  "lesson_id": 3,
+  "title": "Lesson 3: Il-partiċelli",
+  "status": "active",
+  "vocabulary": [
+    { "maltese": "ma'", "english": "with", "accept_english": ["with someone"] },
+    { "maltese": "ta'", "english": "of", "accept_english": ["belonging to"] },
+    { "maltese": "sa", "english": "until", "accept_english": ["as far as", "until or as far as"] },
+    { "maltese": "ġo", "english": "inside", "accept_english": ["in"] },
+    { "maltese": "bi", "english": "with, by means of", "accept_english": ["with", "by means of"] },
+    { "maltese": "fi", "english": "in" },
+    { "maltese": "lil", "english": "to" },
+    { "maltese": "bħal", "english": "like" },
+    { "maltese": "għal", "english": "for", "accept_english": ["to"] },
+    { "maltese": "minn", "english": "from" },
+    { "maltese": "mal-", "english": "with the, from ma'", "accept_maltese": ["mal"], "accept_english": ["with the"] },
+    { "maltese": "tal-", "english": "of the", "accept_maltese": ["tal"] },
+    { "maltese": "sal-", "english": "until the", "accept_maltese": ["sal"], "accept_english": ["as far as the"] },
+    { "maltese": "ġol-", "english": "inside the", "accept_maltese": ["ġol"], "accept_english": ["in the"] },
+    { "maltese": "bil-", "english": "with the, from bi", "accept_maltese": ["bil"], "accept_english": ["with the"] },
+    { "maltese": "fil-", "english": "in the", "accept_maltese": ["fil"] },
+    { "maltese": "lill-", "english": "to the", "accept_maltese": ["lill"] },
+    { "maltese": "bħall-", "english": "like the", "accept_maltese": ["bħall"] },
+    { "maltese": "għall-", "english": "for the", "accept_maltese": ["għall"] },
+    { "maltese": "mill-", "english": "from the", "accept_maltese": ["mill"] },
+    { "maltese": "f'", "english": "short form of fi", "accept_maltese": ["f"], "accept_english": ["in", "f"] },
+    { "maltese": "b'", "english": "short form of bi", "accept_maltese": ["b"], "accept_english": ["with", "b"] },
+    { "maltese": "f'dar kbira", "english": "in a big house" },
+    { "maltese": "b'ajruplan kbir", "english": "with a big plane", "accept_english": ["by a big plane"] },
+    { "maltese": "m'ommi", "english": "with my mother", "accept_maltese": ["ma' ommi", "ma ommi"], "accept_english": ["with my mum"] },
+    { "maltese": "s'Għawdex", "english": "as far as Gozo", "accept_maltese": ["sa Għawdex"], "accept_english": ["to Gozo"] },
+    { "maltese": "t'Alex", "english": "belonging to Alex", "accept_maltese": ["ta' Alex", "ta Alex"], "accept_english": ["of Alex"] },
+    { "maltese": "għad-dar", "english": "to the house", "accept_english": ["for the house"] },
+    { "maltese": "fix-xemx", "english": "in the sun" },
+    { "maltese": "lin-nannu", "english": "to the grandfather", "accept_english": ["to the grandpa"] },
+    { "maltese": "ġos-sufan", "english": "in the sofa", "accept_english": ["in the couch"] },
+    { "maltese": "bħaż-żunżan", "english": "like the bee" },
+    { "maltese": "flimkien ma'", "english": "together with", "accept_maltese": ["flimkien ma"] },
+    { "maltese": "ħija l-kbir", "english": "my older brother", "accept_english": ["my big brother"] },
+    { "maltese": "ittra ta' mħabba", "english": "a love letter", "accept_maltese": ["ittra ta mħabba"] },
+    { "maltese": "maħbuba", "english": "a beloved", "accept_english": ["beloved", "my beloved"] },
+    { "maltese": "il-basket", "english": "the bag", "accept_maltese": ["basket"], "accept_english": ["a bag", "bag"] },
+    { "maltese": "taħt il-mejda", "english": "under the table" },
+    { "maltese": "fuq il-bank", "english": "on the bench" },
+    { "maltese": "il-qrun", "english": "the corna hand gesture", "accept_maltese": ["qrun"], "accept_english": ["the corna", "corna", "the horns"] },
+    { "maltese": "għamlet xenata", "english": "she made a story out of it", "accept_english": ["she made a scene"] },
+    { "maltese": "nieħu", "english": "to take", "accept_maltese": ["ħu", "ħudu", "ħa"], "accept_english": ["I take", "take"] },
+    { "maltese": "stenna", "english": "to wait", "accept_maltese": ["stennew"], "accept_english": ["wait"] },
+    { "maltese": "tista'", "english": "to be able", "accept_maltese": ["seta'", "seta"], "accept_english": ["you can", "can"] },
+    { "maltese": "tpoġġi", "english": "to sit", "accept_maltese": ["poġġi", "poġġu", "poġġa", "poġġ"], "accept_english": ["sit"] },
+    { "maltese": "Daqt miegħek", "english": "I will be with you shortly", "accept_english": ["I'll be with you shortly"] },
+    { "maltese": "Għandi bżonn", "english": "I need" },
+    { "maltese": "Stennieni ftit hawn", "english": "Wait for me here" },
+    { "maltese": "Urieni liema", "english": "Show me which", "accept_maltese": ["Urini liema", "Urini", "Urieni"] },
+    { "maltese": "Tista' ssellifni", "english": "Can you lend me", "accept_maltese": ["Tista ssellifni"] },
+    { "maltese": "lapes", "english": "a pencil", "accept_english": ["pencil"] },
+    { "maltese": "Iva mela", "english": "Yes, of course", "accept_english": ["yes of course", "of course"] },
+    { "maltese": "Skużani", "english": "Excuse me", "accept_english": ["Sorry"] },
+    { "maltese": "M'għandix", "english": "I don't have", "accept_maltese": ["Mgħandix"], "accept_english": ["I do not have"] },
+    { "maltese": "Ma ġara xejn", "english": "Nothing happened", "accept_english": ["It doesn't matter", "No problem"] },
+    { "maltese": "Grazzi xorta", "english": "Thanks anyway", "accept_english": ["Thank you anyway"] },
+    { "maltese": "fil-librerija", "english": "at the library", "accept_english": ["in the library"] },
+    { "maltese": "L-għodwa t-tajba", "english": "Good day", "accept_maltese": ["L għodwa t tajba"] },
+    { "maltese": "Lilek ukoll", "english": "Same to you" },
+    { "maltese": "Lanċa ġejja w oħra sejra", "english": "One ferry coming, another is going", "accept_english": ["One ferry coming and another is going"] },
+    { "maltese": "Minn tas-Sliema għall-Marsamxett", "english": "From Sliema to Marsamxett" },
+    { "maltese": "ħassu ħazin", "english": "he felt unwell", "accept_english": ["felt unwell", "the captain felt unwell"] },
+    { "maltese": "Għamillu karta", "english": "Just write him off" },
+    { "maltese": "Għal tax-xjuħ", "english": "To an old people's home", "accept_english": ["To an old peoples home"] }
+  ],
+  "multiple_choice": [
+    {
+      "id": "mcq_1",
+      "question": "What does the lesson say particles are?",
+      "options": ["Small words that show a relation between words, phrases, and sentences", "The six vowels", "The sun consonants only", "A kind of verb ending"],
+      "answer": "Small words that show a relation between words, phrases, and sentences"
+    },
+    {
+      "id": "mcq_2",
+      "question": "ma' + l- makes",
+      "options": ["mal-", "mil-", "mill-", "fil-"],
+      "answer": "mal-"
+    },
+    {
+      "id": "mcq_3",
+      "question": "ta' + l- makes",
+      "options": ["tal-", "til-", "tal-l-", "lil-"],
+      "answer": "tal-"
+    },
+    {
+      "id": "mcq_4",
+      "question": "minn + l- makes",
+      "options": ["mill-", "mal-", "minn-il-", "fil-"],
+      "answer": "mill-"
+    },
+    {
+      "id": "mcq_5",
+      "question": "Which form do the notes accept? d is a sun consonant.",
+      "options": ["għad-dar", "għall-dar", "għal-dar", "għadd-dar"],
+      "answer": "għad-dar"
+    },
+    {
+      "id": "mcq_6",
+      "question": "fil-xemx is written",
+      "options": ["fix-xemx", "fil-xemx", "fixx-xemx", "f'xemx"],
+      "answer": "fix-xemx"
+    },
+    {
+      "id": "mcq_7",
+      "question": "lill-nannu is written",
+      "options": ["lin-nannu", "lill-nannu", "lil-nannu", "linl-nannu"],
+      "answer": "lin-nannu"
+    },
+    {
+      "id": "mcq_8",
+      "question": "ġol-sufan is written",
+      "options": ["ġos-sufan", "ġol-sufan", "ġoss-sufan", "ġo s-sufan"],
+      "answer": "ġos-sufan"
+    },
+    {
+      "id": "mcq_9",
+      "question": "bħall-żunżan is written",
+      "options": ["bħaż-żunżan", "bħall-żunżan", "bħal-żunżan", "bħazz-żunżan"],
+      "answer": "bħaż-żunżan"
+    },
+    {
+      "id": "mcq_10",
+      "question": "fi and bi shorten to f' and b' before",
+      "options": ["one consonant, a vowel, għ, or h", "a sun consonant only", "two consonants", "the article il-"],
+      "answer": "one consonant, a vowel, għ, or h"
+    },
+    {
+      "id": "mcq_11",
+      "question": "The notes say sa, ma', and ta' may shorten before a vowel, għ, or h. That shortening is",
+      "options": ["not compulsory", "always required", "only for sun consonants", "only in the plural"],
+      "answer": "not compulsory"
+    },
+    {
+      "id": "mcq_12",
+      "question": "Where did David last see Mark's bag?",
+      "options": ["Under the table", "On the bench", "In the break", "In the library"],
+      "answer": "Under the table"
+    },
+    {
+      "id": "mcq_13",
+      "question": "Why did Mark laugh?",
+      "options": ["He thought David was acting like a rock star", "He found the bag", "Miss Attard told a joke", "The books were heavy"],
+      "answer": "He thought David was acting like a rock star"
+    },
+    {
+      "id": "mcq_14",
+      "question": "The notes translate “għamlet xenata” as",
+      "options": ["she made a story out of it", "she sat down", "she lent him a pencil", "she felt unwell"],
+      "answer": "she made a story out of it"
+    },
+    {
+      "id": "mcq_15",
+      "question": "In the verb table, nieħu means",
+      "options": ["to take", "to wait", "to sit", "to be able"],
+      "answer": "to take"
+    },
+    {
+      "id": "mcq_16",
+      "question": "What does “Daqt miegħek” mean?",
+      "options": ["I will be with you shortly", "I need", "Show me which", "Wait for me here"],
+      "answer": "I will be with you shortly"
+    },
+    {
+      "id": "mcq_17",
+      "question": "The ferry song goes from",
+      "options": ["Sliema to Marsamxett", "Mellieħa to Gozo", "the school to the library", "the table to the bench"],
+      "answer": "Sliema to Marsamxett"
+    },
+    {
+      "id": "mcq_18",
+      "question": "“Tista' ssellifni lapes?” means",
+      "options": ["Can you lend me a pencil?", "Can you lend me five euro?", "Where is my bag?", "How much is it?"],
+      "answer": "Can you lend me a pencil?"
+    }
+  ],
+  "fill_in_blank": [
+    {
+      "id": "fib_1",
+      "sentence": "Jiena ngħix ___ ommi flimkien ma' ħija l-kbir.",
+      "hint": "with",
+      "answer": "ma'"
+    },
+    {
+      "id": "fib_2",
+      "sentence": "Dan il-mowbajl hu ___ Layla.",
+      "hint": "of",
+      "answer": "ta'"
+    },
+    {
+      "id": "fib_3",
+      "sentence": "Stenna hawn ___ ma tiġi t-tabiba.",
+      "hint": "until",
+      "answer": "sa"
+    },
+    {
+      "id": "fib_4",
+      "sentence": "Poġġi kollox ___ kaxxa.",
+      "hint": "in. No article yet.",
+      "answer": "ġo"
+    },
+    {
+      "id": "fib_5",
+      "sentence": "Tpenġija ___ ħsieb speċjali.",
+      "hint": "with. The notes print the long form.",
+      "answer": "bi",
+      "answers": ["b'"]
+    },
+    {
+      "id": "fib_6",
+      "sentence": "___ ħsiebi u f'talbi.",
+      "hint": "In. The notes print the long form.",
+      "answer": "Fi",
+      "answers": ["fi", "f'"]
+    },
+    {
+      "id": "fib_7",
+      "sentence": "Ħa nibgħat ittra ___ mħabba lil maħbuba tiegħi.",
+      "hint": "of",
+      "answer": "ta'"
+    },
+    {
+      "id": "fib_8",
+      "sentence": "Dik il-libsa ___ tiegħek!",
+      "hint": "like",
+      "answer": "bħal"
+    },
+    {
+      "id": "fib_9",
+      "sentence": "Mort mixja (ma') ___ ħabiba.",
+      "hint": "Attach the article. ħ is not a sun consonant.",
+      "answer": "mal-"
+    },
+    {
+      "id": "fib_10",
+      "sentence": "Illejla (għal) ___ Imdina u se nieklu ikla tipika Maltija hemm.",
+      "hint": "Attach the article. Imdina starts with a vowel.",
+      "answer": "għall-"
+    },
+    {
+      "id": "fib_11",
+      "sentence": "___ (dan) kelb very mqareb.",
+      "hint": "Attach the article to dan. The notes leave the English word very in this line. k is not a sun consonant.",
+      "answer": "dan il-",
+      "answers": ["dal-"]
+    },
+    {
+      "id": "fib_12",
+      "sentence": "Wara x-xita beda dieħel l-ilma (minn) ___ bejt.",
+      "hint": "Attach the article. b is not a sun consonant.",
+      "answer": "mill-"
+    },
+    {
+      "id": "fib_13",
+      "sentence": "Il-fliexken kollha qegħdin (fi) ___ kaxxa.",
+      "hint": "Attach the article. k is not a sun consonant.",
+      "answer": "fil-"
+    },
+    {
+      "id": "fib_14",
+      "sentence": "Jien norqod (fi) ___ sodda.",
+      "hint": "s is a sun consonant, so the l changes.",
+      "answer": "fis-"
+    },
+    {
+      "id": "fib_15",
+      "sentence": "Jien nħobb nara x-xita nieżla (minn) ___ tieqa ta' kamarti.",
+      "hint": "t is a sun consonant, so the l changes.",
+      "answer": "mit-"
+    },
+    {
+      "id": "fib_16",
+      "sentence": "Jien ninħasel (ġo) ___ xawer.",
+      "hint": "x is a sun consonant, so the l changes.",
+      "answer": "ġox-"
+    },
+    {
+      "id": "fib_17",
+      "sentence": "Fis-sajf noqgħod fuq il-bejt (għal) ___ żiffa ta' filgħaxija.",
+      "hint": "ż is a sun consonant, so the l changes.",
+      "answer": "għaż-"
+    },
+    {
+      "id": "fib_18",
+      "sentence": "Jien nħobb immur nara film (fi) ___ ċinema.",
+      "hint": "ċ is a sun consonant, so the l changes.",
+      "answer": "fiċ-"
+    },
+    {
+      "id": "fib_19",
+      "sentence": "Meta David siefer l-Italja daħal ___ knisja kbira.",
+      "hint": "fi or f'. knisja starts with two consonants.",
+      "answer": "fi"
+    },
+    {
+      "id": "fib_20",
+      "sentence": "Wara daħal ___ mużew tal-arkeoloġija.",
+      "hint": "fi or f'. mużew starts with one consonant.",
+      "answer": "f'"
+    },
+    {
+      "id": "fib_21",
+      "sentence": "Imbagħad hu u sħabu marru ___ park.",
+      "hint": "fi or f'. park starts with one consonant.",
+      "answer": "f'"
+    },
+    {
+      "id": "fib_22",
+      "sentence": "Niżlu jgħumu ___ għadira qrib il-lukanda tagħhom.",
+      "hint": "fi or f'. għadira starts with għ.",
+      "answer": "f'"
+    },
+    {
+      "id": "fib_23",
+      "sentence": "Filgħaxija nħaslu u niżlu ___ bar fil-qrib.",
+      "hint": "fi or f'. bar starts with one consonant.",
+      "answer": "f'"
+    }
+  ],
+  "comprehension": {
+    "text": "Fil-librerija\n\nMarija: Bonġu. Qiegħda nagħmel riċerka żgħira fuq kundizzjonijiet differenti li għandhom x'jaqsmu mal-ikel. Tista' ssibli kotba relatati ma' hekk, jekk jgħoġbok?\nLibrar: Mela le. Stennieni ftit hawn... Sibtlek tliet kotba. Dan dwar l-anorexia, dan fuq l-obeżità u l-aħħar wieħed fuq intolleranza għall-ikel. Tista' tpoġġi hemmhekk fuq it-tielet mejda.\nMarija: Grazzi. Għandek karta u lapes biex nieħu n-noti?\nLibrar: Tista' teħodhom minn dik il-kaxxa u tpoġġihom f'posthom meta tlesti.\n\nMarija: Għandi bżonn ftit fotokopji ta' xi paġni minn dawn il-kotba.\nLibrar: Urini liema tixtieq tiffotokopja u nagħmilhom malajr.\nMarija: Paġna erbgħa u għoxrin (24), sitta u ħamsin (56) u sebgħin (70) minn dan il-ktieb u paġna tnax (12) minn dan.\nLibrar: Kollox sew. Daqt miegħek.\n\nLibrar: Hawn huma.\nMarija: Grazzi ħafna. Kemm?\nLibrar: Ħamsin (50) ċenteżmu. Grazzi. L-għodwa t-tajba.\nMarija: Lilek ukoll.",
+    "questions": [
+      {
+        "id": "comp_1",
+        "question": "Where does this dialogue happen?",
+        "options": ["At the library", "In the English class", "On the ferry", "In a shop"],
+        "answer": "At the library"
+      },
+      {
+        "id": "comp_2",
+        "question": "What is Marija researching?",
+        "options": ["Conditions to do with food", "The Maltese ferry song", "Archaeology", "A pencil"],
+        "answer": "Conditions to do with food"
+      },
+      {
+        "id": "comp_3",
+        "question": "How many books does the librarian find?",
+        "options": ["Three", "Two", "Four"],
+        "answer": "Three"
+      },
+      {
+        "id": "comp_4",
+        "question": "What are the three books about?",
+        "options": ["Anorexia, obesity, and food intolerance", "A pencil, five euro, and a bag", "Sliema, Marsamxett, and Gozo", "A house, a plane, and a church"],
+        "answer": "Anorexia, obesity, and food intolerance"
+      },
+      {
+        "id": "comp_5",
+        "question": "Where may she sit?",
+        "options": ["At the third table", "Under the table", "On the bench", "In the box"],
+        "answer": "At the third table"
+      },
+      {
+        "id": "comp_6",
+        "question": "Where are the paper and the pencil?",
+        "options": ["In that box", "In the bag", "Under the table", "On the ferry"],
+        "answer": "In that box"
+      },
+      {
+        "id": "comp_7",
+        "question": "Which pages does she want copied?",
+        "options": ["24, 56, and 70 from one book, and 12 from the other", "50, 5, and 3", "10, 14, and 38", "Only page 12"],
+        "answer": "24, 56, and 70 from one book, and 12 from the other"
+      },
+      {
+        "id": "comp_8",
+        "question": "How much do the photocopies cost?",
+        "options": ["Fifty cents", "Five euro", "Seventy cents", "Twelve cents"],
+        "answer": "Fifty cents"
+      },
+      {
+        "id": "comp_9",
+        "question": "What does “Daqt miegħek” mean here?",
+        "options": ["I will be with you shortly", "Show me which", "Good day", "Same to you"],
+        "answer": "I will be with you shortly"
+      },
+      {
+        "id": "comp_10",
+        "question": "How does the librarian close?",
+        "options": ["L-għodwa t-tajba", "Bonġu", "Skużani", "Owkej"],
+        "answer": "L-għodwa t-tajba"
+      }
+    ]
+  },
+  "revision": [
+    {
+      "from_lesson": 1,
+      "type": "mcq",
+      "question": "How do you say “Hello”?",
+      "options": ["Ħelow", "Narak", "Le", "Iva"],
+      "answer": "Ħelow"
+    },
+    {
+      "from_lesson": 1,
+      "type": "fib",
+      "sentence": "Int ___?",
+      "hint": "What is your name?",
+      "answer": "x'jismek"
+    },
+    {
+      "from_lesson": 2,
+      "type": "mcq",
+      "question": "How do the notes write “the school”?",
+      "options": ["l-iskola", "is-skola", "il-skola", "skola"],
+      "answer": "l-iskola"
+    },
+    {
+      "from_lesson": 2,
+      "type": "mcq",
+      "question": "How do you say “my mother”?",
+      "options": ["ommi", "missieri", "oħti", "in-nanna"],
+      "answer": "ommi"
+    },
+    {
+      "from_lesson": 2,
+      "type": "fib",
+      "sentence": "Jekk iz-zijiet ikollhom tifla, ngħidulha l-___.",
+      "hint": "female cousin",
+      "answer": "kuġina"
+    }
+  ]
+}

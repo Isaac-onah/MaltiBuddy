@@ -15,7 +15,13 @@
     {
       "id": 3,
       "file": "lesson-3.json",
-      "title": "Lesson 3: Opens later",
+      "title": "Lesson 3: Il-partiċelli",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "file": "lesson-4.json",
+      "title": "Lesson 4: Opens later",
       "status": "coming_soon"
     }
   ]

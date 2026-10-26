@@ -32,7 +32,7 @@ There is no audio.
 
 ## Reference
 
-The Reference tab is for reading, not for a score. On the home page it sits under the lessons. Lessons 1 and 2, the alphabet, and the article follow the class notes. The reference also has the days, the months, the numbers, everyday phrases, prepositions, and particles. Edit `data/reference.json` to change that wording.
+The Reference tab is for reading, not for a score. On the home page it sits under the lessons. Lessons 1, 2, and 3, the alphabet, and the article follow the class notes. The reference also has the days, the months, the numbers, everyday phrases, prepositions, and particles. Edit `data/reference.json` to change that wording.
 
 ## Add a lesson on Saturday
 
