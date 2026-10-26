@@ -1,0 +1,22 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "file": "lesson-1.json",
+      "title": "Lesson 1: X'jismek?",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "file": "lesson-2.json",
+      "title": "Lesson 2: Il-familja tiegħi",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "file": "lesson-3.json",
+      "title": "Lesson 3: Opens later",
+      "status": "coming_soon"
+    }
+  ]
+}

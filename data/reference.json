@@ -1,0 +1,1556 @@
+{
+  "intro": "The alphabet, the article, the calendar, numbers, and everyday phrases. Read them whenever you need them. Nothing here is a test.",
+  "topics": [
+    {
+      "id": "alphabet",
+      "title": "Alphabet",
+      "blurb": "30 letters: 24 consonants and 6 vowels.",
+      "kind": "alphabet",
+      "lead": "Maltese has 30 letters. 24 are consonants and 6 are vowels: a, e, i, ie, o, u. Ie is one vowel, even though it is written with two symbols. Għ is one consonant. The capital of ħ is Ħ. Maltese is the national language of Malta, Gozo, and Comino. It is the only Semitic language written in the Roman alphabet, and an official language of the European Union.",
+      "letters": [
+        {
+          "form": "A a",
+          "kind": "vowel",
+          "example": "art",
+          "gloss": "a piece of land, or a floor",
+          "also": "anġlu",
+          "alsoGloss": "an angel"
+        },
+        {
+          "form": "B b",
+          "kind": "consonant",
+          "example": "bar",
+          "gloss": "a bar",
+          "also": "bieb",
+          "alsoGloss": "a door"
+        },
+        {
+          "form": "Ċ ċ",
+          "kind": "consonant",
+          "example": "ċoff",
+          "gloss": "a bow",
+          "also": "ċavetta",
+          "alsoGloss": "a key"
+        },
+        {
+          "form": "D d",
+          "kind": "consonant",
+          "example": "dar",
+          "gloss": "a house",
+          "also": "denfil",
+          "alsoGloss": "a dolphin"
+        },
+        {
+          "form": "E e",
+          "kind": "vowel",
+          "example": "envelop",
+          "gloss": "an envelope",
+          "also": "entratura",
+          "alsoGloss": "an entrance"
+        },
+        {
+          "form": "F f",
+          "kind": "consonant",
+          "example": "forn",
+          "gloss": "an oven",
+          "also": "furketta",
+          "alsoGloss": "a fork"
+        },
+        {
+          "form": "Ġ ġ",
+          "kind": "consonant",
+          "example": "ġelat",
+          "gloss": "an ice cream",
+          "also": "ġungla",
+          "alsoGloss": "a jungle"
+        },
+        {
+          "form": "G g",
+          "kind": "consonant",
+          "example": "gomma",
+          "gloss": "an eraser",
+          "also": "griż",
+          "alsoGloss": "grey"
+        },
+        {
+          "form": "Għ għ",
+          "kind": "consonant",
+          "example": "għasfur",
+          "gloss": "a bird",
+          "also": "għajnejn",
+          "alsoGloss": "eyes"
+        },
+        {
+          "form": "H h",
+          "kind": "consonant",
+          "example": "hawn",
+          "gloss": "here",
+          "also": "hena",
+          "alsoGloss": "joy"
+        },
+        {
+          "form": "Ħ ħ",
+          "kind": "consonant",
+          "example": "ħawħa",
+          "gloss": "a peach",
+          "also": "ħniena",
+          "alsoGloss": "mercy"
+        },
+        {
+          "form": "I i",
+          "kind": "vowel",
+          "example": "ittra",
+          "gloss": "a letter",
+          "also": "inka",
+          "alsoGloss": "an ink"
+        },
+        {
+          "form": "Ie ie",
+          "kind": "vowel",
+          "example": "ieqaf",
+          "gloss": "stop",
+          "also": "ieħor",
+          "alsoGloss": "another"
+        },
+        {
+          "form": "J j",
+          "kind": "consonant",
+          "example": "jot",
+          "gloss": "a yacht",
+          "also": "jum",
+          "alsoGloss": "a day"
+        },
+        {
+          "form": "K k",
+          "kind": "consonant",
+          "example": "kejk",
+          "gloss": "a cake",
+          "also": "knisja",
+          "alsoGloss": "a church"
+        },
+        {
+          "form": "L l",
+          "kind": "consonant",
+          "example": "lampa",
+          "gloss": "a lamp",
+          "also": "libsa",
+          "alsoGloss": "a dress"
+        },
+        {
+          "form": "M m",
+          "kind": "consonant",
+          "example": "ma",
+          "gloss": "mum",
+          "also": "mara",
+          "alsoGloss": "a woman"
+        },
+        {
+          "form": "N n",
+          "kind": "consonant",
+          "example": "nar",
+          "gloss": "a fire",
+          "also": "nanna",
+          "alsoGloss": "a grandma"
+        },
+        {
+          "form": "O o",
+          "kind": "vowel",
+          "example": "ors",
+          "gloss": "a bear",
+          "also": "ordni",
+          "alsoGloss": "an order"
+        },
+        {
+          "form": "P p",
+          "kind": "consonant",
+          "example": "pa",
+          "gloss": "dad",
+          "also": "piżella",
+          "alsoGloss": "a pea"
+        },
+        {
+          "form": "Q q",
+          "kind": "consonant",
+          "example": "qal",
+          "gloss": "he said",
+          "also": "qalb",
+          "alsoGloss": "a heart"
+        },
+        {
+          "form": "R r",
+          "kind": "consonant",
+          "example": "ras",
+          "gloss": "a head",
+          "also": "riga",
+          "alsoGloss": "a ruler"
+        },
+        {
+          "form": "S s",
+          "kind": "consonant",
+          "example": "serp",
+          "gloss": "a snake",
+          "also": "silġ",
+          "alsoGloss": "snow"
+        },
+        {
+          "form": "T t",
+          "kind": "consonant",
+          "example": "tina",
+          "gloss": "a fig",
+          "also": "tajba",
+          "alsoGloss": "good"
+        },
+        {
+          "form": "U u",
+          "kind": "vowel",
+          "example": "umbrella",
+          "gloss": "an umbrella",
+          "also": "umli",
+          "alsoGloss": "humble"
+        },
+        {
+          "form": "V v",
+          "kind": "consonant",
+          "example": "vann",
+          "gloss": "a van",
+          "also": "verità",
+          "alsoGloss": "a truth"
+        },
+        {
+          "form": "W w",
+          "kind": "consonant",
+          "example": "wejter",
+          "gloss": "a waiter",
+          "also": "widna",
+          "alsoGloss": "an ear"
+        },
+        {
+          "form": "X x",
+          "kind": "consonant",
+          "example": "xawer",
+          "gloss": "a shower",
+          "also": "xemx",
+          "alsoGloss": "sun"
+        },
+        {
+          "form": "Ż ż",
+          "kind": "consonant",
+          "example": "żrinġ",
+          "gloss": "a frog",
+          "also": "żunżana",
+          "alsoGloss": "a bee"
+        },
+        {
+          "form": "Z z",
+          "kind": "consonant",
+          "example": "zokk",
+          "gloss": "a trunk",
+          "also": "zokkor",
+          "alsoGloss": "sugar"
+        }
+      ]
+    },
+    {
+      "id": "vowels",
+      "title": "Vowels",
+      "blurb": "A, e, i, ie, o, and u. The article before them is l-.",
+      "kind": "cards",
+      "lead": "There are 6 vowels: a, e, i, ie, o, and u. Ie is one vowel. A word that starts with a vowel takes l-, not il-. The same l- is used before għ and h.",
+      "items": [
+        {
+          "title": "a",
+          "sound": "The article is l-.",
+          "example": "art",
+          "gloss": "a piece of land, or a floor",
+          "note": "l-art. Also anġlu, an angel."
+        },
+        {
+          "title": "e",
+          "sound": "The article is l-.",
+          "example": "envelop",
+          "gloss": "an envelope",
+          "note": "Also entratura, an entrance. The notes also give l-elf, the thousand."
+        },
+        {
+          "title": "i",
+          "sound": "The article is l-.",
+          "example": "ittra",
+          "gloss": "a letter",
+          "note": "This is the single letter i. Also inka, an ink. l-ilsien is the tongue."
+        },
+        {
+          "title": "ie",
+          "sound": "One vowel. The article is l-.",
+          "example": "ieqaf",
+          "gloss": "stop",
+          "note": "Written with two symbols, counted as one vowel. Also ieħor, another. l-iebes means hard."
+        },
+        {
+          "title": "o",
+          "sound": "The article is l-.",
+          "example": "ors",
+          "gloss": "a bear",
+          "note": "Also ordni, an order. l-omm is the mother, and l-oħxon means fat."
+        },
+        {
+          "title": "u",
+          "sound": "The article is l-.",
+          "example": "umbrella",
+          "gloss": "an umbrella",
+          "note": "Also umli, humble. l-uffiċju is the office."
+        }
+      ]
+    },
+    {
+      "id": "consonants",
+      "title": "Consonants",
+      "blurb": "Sun and moon consonants, and how the article is formed.",
+      "kind": "groups",
+      "lead": "There are 24 consonants. Nine are sun consonants: the l of il- changes to match them. The rest are moon consonants and keep il-, except għ and h, which take l-.",
+      "groups": [
+        {
+          "title": "Sun consonants, konsonanti xemxin",
+          "items": [
+            {
+              "form": "ċ",
+              "sound": "Sun consonant. The l of the article changes to this letter.",
+              "example": "iċ-ċavetta",
+              "gloss": "the key"
+            },
+            {
+              "form": "d",
+              "sound": "Sun consonant. The l of the article changes to this letter.",
+              "example": "id-dundjan",
+              "gloss": "the turkey"
+            },
+            {
+              "form": "n",
+              "sound": "Sun consonant. The l of the article changes to this letter.",
+              "example": "in-nanna",
+              "gloss": "the grandma"
+            },
+            {
+              "form": "r",
+              "sound": "Sun consonant. The l of the article changes to this letter.",
+              "example": "ir-raġel",
+              "gloss": "the man"
+            },
+            {
+              "form": "s",
+              "sound": "Sun consonant. The l of the article changes to this letter.",
+              "example": "is-sodda",
+              "gloss": "the bed"
+            },
+            {
+              "form": "t",
+              "sound": "Sun consonant. The l of the article changes to this letter.",
+              "example": "it-tabib",
+              "gloss": "the doctor"
+            },
+            {
+              "form": "x",
+              "sound": "Sun consonant. The l of the article changes to this letter.",
+              "example": "ix-xalpa",
+              "gloss": "the scarf"
+            },
+            {
+              "form": "ż",
+              "sound": "Sun consonant. The l of the article changes to this letter.",
+              "example": "iż-żarbun",
+              "gloss": "the shoe"
+            },
+            {
+              "form": "z",
+              "sound": "Sun consonant. The l of the article changes to this letter.",
+              "example": "iz-zokk",
+              "gloss": "the stem"
+            }
+          ]
+        },
+        {
+          "title": "Moon consonants, konsonanti qamrin",
+          "items": [
+            {
+              "form": "b",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-ballun",
+              "gloss": "the ball"
+            },
+            {
+              "form": "f",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-friġġ",
+              "gloss": "the fridge"
+            },
+            {
+              "form": "ġ",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-ġnien",
+              "gloss": "the garden"
+            },
+            {
+              "form": "g",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-granċ",
+              "gloss": "the crab"
+            },
+            {
+              "form": "għ",
+              "sound": "Moon consonant, but the article is l-, as before a vowel.",
+              "example": "l-għajn",
+              "gloss": "the eye"
+            },
+            {
+              "form": "h",
+              "sound": "Moon consonant, but the article is l-, as before a vowel.",
+              "example": "l-hena",
+              "gloss": "the joy"
+            },
+            {
+              "form": "ħ",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-ħabib",
+              "gloss": "the friend"
+            },
+            {
+              "form": "j",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-jott",
+              "gloss": "the yacht"
+            },
+            {
+              "form": "k",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-ktieb",
+              "gloss": "the book"
+            },
+            {
+              "form": "l",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-libsa",
+              "gloss": "the dress"
+            },
+            {
+              "form": "m",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-mara",
+              "gloss": "the woman"
+            },
+            {
+              "form": "p",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-papra",
+              "gloss": "the duck"
+            },
+            {
+              "form": "q",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-qalb",
+              "gloss": "the heart"
+            },
+            {
+              "form": "v",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-vapur",
+              "gloss": "the ship"
+            },
+            {
+              "form": "w",
+              "sound": "Moon consonant. The article stays il-.",
+              "example": "il-wied",
+              "gloss": "the valley"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "The article is il- or l-, added to the start of a noun or an adjective. familja is a family. il-familja is the family. kuġin is a cousin. il-kuġin is the cousin.",
+        "Before a vowel (a, e, i, ie, o, u), and before għ and h, use l-: l-omm, l-hena, l-għasfur, l-aħwa.",
+        "Before a sun consonant, the l changes to that letter: id-dundjan, iċ-ċavetta, in-nanna, ir-raġel, it-tabib, ix-xalpa, iż-żarbun, iz-zokk.",
+        "Moon consonants keep il-. Għ and h are moon consonants, but they take l-: il-missier, il-ħabib, l-għajn, l-hena.",
+        "The notes write the school as l-iskola, not is-skola.",
+        "The i in il- is called il-vokali tal-leħen, the euphonic vowel. It drops before a vowel, għ, or h. It also drops when the word before the article already ends in a vowel: Dan l-orgni li xtrajt. Dan huwa l-pjanist."
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title": "Prepositions",
+      "blurb": "How they join il-, and how the endings are formed.",
+      "kind": "prepositions",
+      "lead": "Some prepositions join the article. fi + il- becomes fil-. The same word can also take an ending for the person.",
+      "people": [
+        "I",
+        "You",
+        "He",
+        "She",
+        "We",
+        "You all",
+        "They"
+      ],
+      "items": [
+        {
+          "word": "fi",
+          "means": "in",
+          "join": "Joins il-",
+          "joined": "fil-",
+          "example": "fil-brejk",
+          "gloss": "during the break",
+          "note": "With the article, fi + il- is fil-, as in fil-brejk. Without the article the notes write f': f'din l-iskola, f'raħal ieħor, f'dar imdaqqsa.",
+          "with": [
+            "fija",
+            "fik",
+            "fih",
+            "fiha",
+            "fina",
+            "fikom",
+            "fihom"
+          ]
+        },
+        {
+          "word": "bi",
+          "means": "with, by",
+          "join": "Joins il-",
+          "joined": "bil-",
+          "example": "bil-Malti",
+          "gloss": "in Maltese",
+          "note": "Before a vowel the i drops: bl-Ingliż, in English. For a person you are with, the dialogue uses miegħu.",
+          "with": [
+            "bija",
+            "bik",
+            "bih",
+            "biha",
+            "bina",
+            "bikom",
+            "bihom"
+          ]
+        },
+        {
+          "word": "ta'",
+          "means": "of",
+          "join": "Joins il-",
+          "joined": "tal-",
+          "example": "tal-familja",
+          "gloss": "of the family",
+          "note": "The lesson writes it-tifel iż-żgħir tal-familja. Before a sun consonant the l still changes: tar-raħal, of the village. The endings for a person use tiegħ- and tagħ-.",
+          "with": [
+            "tiegħi",
+            "tiegħek",
+            "tiegħu",
+            "tagħha",
+            "tagħna",
+            "tagħkom",
+            "tagħhom"
+          ]
+        },
+        {
+          "word": "minn",
+          "means": "from",
+          "join": "Joins il-",
+          "joined": "mill-",
+          "example": "mill-Mellieħa",
+          "gloss": "from Mellieħa",
+          "note": "Jien mill-Mellieħa. The question is Int minn fejn int? Before a sun consonant the n can change, as with the article.",
+          "with": [
+            "minni",
+            "minnek",
+            "minnu",
+            "minnha",
+            "minna",
+            "minnkom",
+            "minnhom"
+          ]
+        },
+        {
+          "word": "ma'",
+          "means": "with someone",
+          "join": "Joins il-",
+          "joined": "mal-",
+          "example": "mal-ħabib",
+          "gloss": "with the friend",
+          "note": "ma' is company. bi is an instrument.",
+          "with": [
+            "miegħi",
+            "miegħek",
+            "miegħu",
+            "magħha",
+            "magħna",
+            "magħkom",
+            "magħhom"
+          ]
+        },
+        {
+          "word": "għal",
+          "means": "for",
+          "join": "Joins il-",
+          "joined": "għall-",
+          "example": "għall-omm",
+          "gloss": "for the mother",
+          "note": "The dialogue says tajjeb ħafna għalija, very good for me. With the article, the l is doubled: għall-.",
+          "with": [
+            "għalija",
+            "għalik",
+            "għalih",
+            "għaliha",
+            "għalina",
+            "għalikom",
+            "għalihom"
+          ]
+        },
+        {
+          "word": "lil",
+          "means": "to a person",
+          "join": "Joins il-",
+          "joined": "lill-",
+          "example": "lill-missier",
+          "gloss": "to the father",
+          "note": "Also placed before a person who receives the action of the verb.",
+          "with": [
+            "lili",
+            "lilek",
+            "lilu",
+            "lilha",
+            "lilna",
+            "lilkom",
+            "lilhom"
+          ]
+        },
+        {
+          "word": "sa",
+          "means": "until, as far as",
+          "join": "Joins il-",
+          "joined": "sal-",
+          "example": "sal-bieb",
+          "gloss": "as far as the door",
+          "note": "sa + il- becomes sal-."
+        },
+        {
+          "word": "fuq",
+          "means": "on",
+          "join": "Stays separate",
+          "joined": "fuq il-",
+          "example": "fuq il-mejda",
+          "gloss": "on the table",
+          "note": "fuq does not fuse with il-.",
+          "with": [
+            "fuqi",
+            "fuqek",
+            "fuqu",
+            "fuqha",
+            "fuqna",
+            "fuqkom",
+            "fuqhom"
+          ]
+        },
+        {
+          "word": "taħt",
+          "means": "under",
+          "join": "Stays separate",
+          "joined": "taħt il-",
+          "example": "taħt il-mejda",
+          "gloss": "under the table",
+          "with": [
+            "taħti",
+            "taħtek",
+            "taħtu",
+            "taħtha",
+            "taħtna",
+            "taħtkom",
+            "taħthom"
+          ]
+        },
+        {
+          "word": "wara",
+          "means": "after, behind",
+          "join": "Stays separate",
+          "joined": "wara l-",
+          "example": "wara l-iskola",
+          "gloss": "after school",
+          "with": [
+            "warajja",
+            "warajk",
+            "warajh",
+            "warajha",
+            "warajna",
+            "warajkom",
+            "warajhom"
+          ]
+        },
+        {
+          "word": "qabel",
+          "means": "before",
+          "join": "Stays separate",
+          "joined": "qabel il-",
+          "example": "qabel il-lezzjoni",
+          "gloss": "before the lesson"
+        },
+        {
+          "word": "bejn",
+          "means": "between",
+          "join": "Stays separate",
+          "joined": "bejn il-",
+          "example": "bejn id-dar u l-iskola",
+          "gloss": "between the house and the school",
+          "with": [
+            "bejni",
+            "bejnek",
+            "bejnu",
+            "bejnha",
+            "bejnna",
+            "bejnkom",
+            "bejnhom"
+          ]
+        },
+        {
+          "word": "lejn",
+          "means": "towards",
+          "join": "Stays separate",
+          "joined": "lejn l-",
+          "example": "lejn l-iskola",
+          "gloss": "towards the school",
+          "with": [
+            "lejja",
+            "lejk",
+            "lejh",
+            "lejha",
+            "lejna",
+            "lejkom",
+            "lejhom"
+          ]
+        },
+        {
+          "word": "mingħajr",
+          "means": "without",
+          "join": "Stays separate",
+          "joined": "mingħajr il-",
+          "example": "mingħajr il-ktieb",
+          "gloss": "without the book"
+        },
+        {
+          "word": "ġewwa",
+          "means": "inside",
+          "join": "Stays separate",
+          "joined": "ġewwa l-",
+          "example": "ġewwa l-klassi",
+          "gloss": "inside the classroom"
+        },
+        {
+          "word": "quddiem",
+          "means": "in front of",
+          "join": "Stays separate",
+          "joined": "quddiem il-",
+          "example": "quddiem il-bieb",
+          "gloss": "in front of the door"
+        },
+        {
+          "word": "barra",
+          "means": "outside",
+          "join": "Often takes minn",
+          "joined": "barra minn",
+          "example": "barra mid-dar",
+          "gloss": "outside the house",
+          "note": "barra often pairs with minn, so the n of minn can still change: mid-dar."
+        }
+      ]
+    },
+    {
+      "id": "particles",
+      "title": "Particles",
+      "blurb": "The article, and the small words in the sentences.",
+      "kind": "particles",
+      "lead": "il- is the article from the class notes, including how it is formed. The other words are small patterns you meet in the sentences.",
+      "items": [
+        {
+          "word": "il-",
+          "means": "the",
+          "formed": "The article is il- or l-. Before a vowel, and before għ and h, use l-: l-art, l-omm, l-għasfur, l-hena. Before a sun consonant the l changes: iċ-ċavetta, id-dundjan, in-nanna, ir-raġel, is-sodda, it-tabib, ix-xalpa, iż-żarbun, iz-zokk. Before the other consonants, il- stays: il-missier, il-ktieb, il-qalb. The i is il-vokali tal-leħen. It also drops when the word before already ends in a vowel: Dan huwa l-pjanist.",
+          "example": "l-omm, il-missier, iċ-ċavetta",
+          "gloss": "the mother, the father, the key"
+        },
+        {
+          "word": "ma … x",
+          "means": "not",
+          "formed": "ma goes before the verb. x joins the end. Nifhem becomes Ma nifhimx. Before a vowel or għ, ma is often written m': M'għandix.",
+          "example": "Ma nifhimx.",
+          "gloss": "I do not understand."
+        },
+        {
+          "word": "li",
+          "means": "that, who, which",
+          "formed": "li does not change. It starts the clause that follows.",
+          "example": "Naf li inti hawn.",
+          "gloss": "I know that you are here."
+        },
+        {
+          "word": "biex",
+          "means": "in order to",
+          "formed": "biex does not change. A verb in the present follows it.",
+          "example": "Ġejt biex nitgħallem.",
+          "gloss": "I came in order to learn."
+        },
+        {
+          "word": "qed",
+          "means": "happening now",
+          "formed": "qed does not change. The longer form agrees: qiegħed for he, qiegħda for she, qegħdin for they.",
+          "example": "Qed niekol.",
+          "gloss": "I am eating."
+        },
+        {
+          "word": "se",
+          "means": "going to",
+          "formed": "se does not take an ending. ħa and ser do the same job: Ħa mmur. Ser immur.",
+          "example": "Se mmur.",
+          "gloss": "I am going to go."
+        },
+        {
+          "word": "jekk",
+          "means": "if",
+          "formed": "jekk does not change. It opens the condition.",
+          "example": "Jekk trid.",
+          "gloss": "If you want."
+        },
+        {
+          "word": "xi",
+          "means": "some, any, what",
+          "formed": "xi before a consonant. Before a vowel it is written x': x'inti, x'ismek.",
+          "example": "xi ħaġa",
+          "gloss": "something"
+        }
+      ]
+    },
+    {
+      "id": "days",
+      "title": "Days",
+      "blurb": "The seven days, and how to say on Monday.",
+      "kind": "phrases",
+      "lead": "The day takes the article. On that day, put nhar in front. il-Ġimgħa is Friday. il-ġimgħa is the week.",
+      "groups": [
+        {
+          "title": "The week",
+          "items": [
+            {
+              "word": "it-Tnejn",
+              "means": "Monday",
+              "formed": "T is a sun letter, so the article is it-.",
+              "example": "nhar it-Tnejn",
+              "gloss": "on Monday"
+            },
+            {
+              "word": "it-Tlieta",
+              "means": "Tuesday",
+              "formed": "T is a sun letter, so the article is it-.",
+              "example": "nhar it-Tlieta",
+              "gloss": "on Tuesday"
+            },
+            {
+              "word": "l-Erbgħa",
+              "means": "Wednesday",
+              "formed": "Erbgħa starts with a vowel, so the article is l-.",
+              "example": "nhar l-Erbgħa",
+              "gloss": "on Wednesday"
+            },
+            {
+              "word": "il-Ħamis",
+              "means": "Thursday",
+              "formed": "Ħ is a moon letter, so the article stays il-.",
+              "example": "nhar il-Ħamis",
+              "gloss": "on Thursday"
+            },
+            {
+              "word": "il-Ġimgħa",
+              "means": "Friday",
+              "formed": "Ġ is a moon letter, so the article stays il-.",
+              "example": "nhar il-Ġimgħa",
+              "gloss": "on Friday"
+            },
+            {
+              "word": "is-Sibt",
+              "means": "Saturday",
+              "formed": "S is a sun letter, so the article is is-.",
+              "example": "nhar is-Sibt",
+              "gloss": "on Saturday"
+            },
+            {
+              "word": "il-Ħadd",
+              "means": "Sunday",
+              "formed": "Ħ is a moon letter, so the article stays il-.",
+              "example": "nhar il-Ħadd",
+              "gloss": "on Sunday"
+            },
+            {
+              "word": "il-ġimgħa",
+              "means": "the week",
+              "formed": "This is the week, not Friday. Friday is il-Ġimgħa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "months",
+      "title": "Months",
+      "blurb": "The twelve months, and how a date is formed.",
+      "kind": "phrases",
+      "lead": "In front of a month, in is written f'. A date is the number, then ta', then the month: it-tlieta ta' Jannar, or It-3 ta' Jannar.",
+      "groups": [
+        {
+          "title": "The year",
+          "items": [
+            {
+              "word": "Jannar",
+              "means": "January",
+              "formed": "f' before the month. ta' for of.",
+              "example": "f'Jannar",
+              "gloss": "in January"
+            },
+            {
+              "word": "Frar",
+              "means": "February",
+              "example": "f'Frar",
+              "gloss": "in February"
+            },
+            {
+              "word": "Marzu",
+              "means": "March",
+              "example": "f'Marzu",
+              "gloss": "in March"
+            },
+            {
+              "word": "April",
+              "means": "April",
+              "example": "f'April",
+              "gloss": "in April"
+            },
+            {
+              "word": "Mejju",
+              "means": "May",
+              "example": "f'Mejju",
+              "gloss": "in May"
+            },
+            {
+              "word": "Ġunju",
+              "means": "June",
+              "example": "f'Ġunju",
+              "gloss": "in June"
+            },
+            {
+              "word": "Lulju",
+              "means": "July",
+              "example": "f'Lulju",
+              "gloss": "in July"
+            },
+            {
+              "word": "Awwissu",
+              "means": "August",
+              "example": "f'Awwissu",
+              "gloss": "in August"
+            },
+            {
+              "word": "Settembru",
+              "means": "September",
+              "example": "f'Settembru",
+              "gloss": "in September"
+            },
+            {
+              "word": "Ottubru",
+              "means": "October",
+              "example": "f'Ottubru",
+              "gloss": "in October"
+            },
+            {
+              "word": "Novembru",
+              "means": "November",
+              "example": "f'Novembru",
+              "gloss": "in November"
+            },
+            {
+              "word": "Diċembru",
+              "means": "December",
+              "example": "f'Diċembru",
+              "gloss": "in December"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "it-tlieta ta' Jannar is the third of January. It-3 ta' Jannar is the same date in figures.",
+        "The family paragraph uses snin and sena for years of age. The month names above are the calendar."
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Numbers",
+      "blurb": "From 1 upward, and the form you put before a noun.",
+      "kind": "groups",
+      "lead": "On its own, use the full word: erbgħa, għaxra, tmienja. Before a noun, 2 to 10 shorten, and a normal noun is plural: erba' persuni, għaxar snin. From 11 to 19, add -il: erbatax-il sena. From 20 up, say the units, then u, then the ten: tmienja u tletin.",
+      "groups": [
+        {
+          "title": "1 to 10, on their own",
+          "items": [
+            {
+              "form": "wieħed",
+              "sound": "1",
+              "example": "waħda",
+              "gloss": "feminine"
+            },
+            {
+              "form": "tnejn",
+              "sound": "2"
+            },
+            {
+              "form": "tlieta",
+              "sound": "3"
+            },
+            {
+              "form": "erbgħa",
+              "sound": "4"
+            },
+            {
+              "form": "ħamsa",
+              "sound": "5"
+            },
+            {
+              "form": "sitta",
+              "sound": "6"
+            },
+            {
+              "form": "sebgħa",
+              "sound": "7"
+            },
+            {
+              "form": "tmienja",
+              "sound": "8"
+            },
+            {
+              "form": "disgħa",
+              "sound": "9"
+            },
+            {
+              "form": "għaxra",
+              "sound": "10"
+            }
+          ]
+        },
+        {
+          "title": "2 to 10, before a noun",
+          "items": [
+            {
+              "form": "żewġ",
+              "sound": "2",
+              "example": "żewġ persuni",
+              "gloss": "two people"
+            },
+            {
+              "form": "tliet",
+              "sound": "3",
+              "example": "tliet persuni",
+              "gloss": "three people"
+            },
+            {
+              "form": "erba'",
+              "sound": "4",
+              "example": "erba' persuni",
+              "gloss": "four people"
+            },
+            {
+              "form": "ħames",
+              "sound": "5",
+              "example": "ħames snin",
+              "gloss": "five years"
+            },
+            {
+              "form": "sitt",
+              "sound": "6",
+              "example": "sitt snin",
+              "gloss": "six years"
+            },
+            {
+              "form": "seba'",
+              "sound": "7",
+              "example": "seba' snin",
+              "gloss": "seven years"
+            },
+            {
+              "form": "tmien",
+              "sound": "8",
+              "example": "tmien snin",
+              "gloss": "eight years"
+            },
+            {
+              "form": "disa'",
+              "sound": "9",
+              "example": "disa' snin",
+              "gloss": "nine years"
+            },
+            {
+              "form": "għaxar",
+              "sound": "10",
+              "example": "għaxar snin",
+              "gloss": "ten years"
+            }
+          ]
+        },
+        {
+          "title": "11 to 19, on their own",
+          "items": [
+            {
+              "form": "ħdax",
+              "sound": "11"
+            },
+            {
+              "form": "tnax",
+              "sound": "12"
+            },
+            {
+              "form": "tlettax",
+              "sound": "13"
+            },
+            {
+              "form": "erbatax",
+              "sound": "14"
+            },
+            {
+              "form": "ħmistax",
+              "sound": "15"
+            },
+            {
+              "form": "sittax",
+              "sound": "16"
+            },
+            {
+              "form": "sbatax",
+              "sound": "17"
+            },
+            {
+              "form": "tmintax",
+              "sound": "18"
+            },
+            {
+              "form": "dsatax",
+              "sound": "19"
+            }
+          ]
+        },
+        {
+          "title": "11 to 19, before a noun",
+          "items": [
+            {
+              "form": "ħdax-il",
+              "sound": "11",
+              "example": "ħdax-il sena",
+              "gloss": "eleven years"
+            },
+            {
+              "form": "tnax-il",
+              "sound": "12",
+              "example": "tnax-il sena",
+              "gloss": "twelve years"
+            },
+            {
+              "form": "tlettax-il",
+              "sound": "13",
+              "example": "tlettax-il sena",
+              "gloss": "thirteen years"
+            },
+            {
+              "form": "erbatax-il",
+              "sound": "14",
+              "example": "erbatax-il sena",
+              "gloss": "fourteen years"
+            },
+            {
+              "form": "ħmistax-il",
+              "sound": "15",
+              "example": "ħmistax-il sena",
+              "gloss": "fifteen years"
+            },
+            {
+              "form": "sittax-il",
+              "sound": "16",
+              "example": "sittax-il sena",
+              "gloss": "sixteen years"
+            },
+            {
+              "form": "sbatax-il",
+              "sound": "17",
+              "example": "sbatax-il sena",
+              "gloss": "seventeen years"
+            },
+            {
+              "form": "tmintax-il",
+              "sound": "18",
+              "example": "tmintax-il sena",
+              "gloss": "eighteen years"
+            },
+            {
+              "form": "dsatax-il",
+              "sound": "19",
+              "example": "dsatax-il sena",
+              "gloss": "nineteen years"
+            }
+          ]
+        },
+        {
+          "title": "The tens",
+          "items": [
+            {
+              "form": "għoxrin",
+              "sound": "20",
+              "example": "għoxrin sena",
+              "gloss": "twenty years"
+            },
+            {
+              "form": "tletin",
+              "sound": "30",
+              "example": "tletin sena",
+              "gloss": "thirty years"
+            },
+            {
+              "form": "erbgħin",
+              "sound": "40",
+              "example": "erbgħin sena",
+              "gloss": "forty years"
+            },
+            {
+              "form": "ħamsin",
+              "sound": "50",
+              "example": "ħamsin sena",
+              "gloss": "fifty years"
+            },
+            {
+              "form": "sittin",
+              "sound": "60",
+              "example": "sittin sena",
+              "gloss": "sixty years"
+            },
+            {
+              "form": "sebgħin",
+              "sound": "70",
+              "example": "sebgħin sena",
+              "gloss": "seventy years"
+            },
+            {
+              "form": "tmenin",
+              "sound": "80",
+              "example": "tmenin sena",
+              "gloss": "eighty years"
+            },
+            {
+              "form": "disgħin",
+              "sound": "90",
+              "example": "disgħin sena",
+              "gloss": "ninety years"
+            }
+          ]
+        },
+        {
+          "title": "100 and 1,000",
+          "items": [
+            {
+              "form": "mija",
+              "sound": "100",
+              "example": "mija u wieħed",
+              "gloss": "101"
+            },
+            {
+              "form": "mitejn",
+              "sound": "200",
+              "example": "tliet mija",
+              "gloss": "300"
+            },
+            {
+              "form": "elf",
+              "sound": "1,000",
+              "example": "elf u wieħed",
+              "gloss": "1,001"
+            },
+            {
+              "form": "elfejn",
+              "sound": "2,000",
+              "example": "elfejn u għaxra",
+              "gloss": "2,010"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "One agrees with the word: wieħed raġel, waħda mara.",
+        "Two before a noun is żewġ, not tnejn.",
+        "The family paragraph uses these forms: erba' persuni, għaxar snin, erbatax-il sena, tmienja u tletin sena, erbgħin sena.",
+        "Build 21 and above from the unit, then u, then the ten: wieħed u għoxrin is 21. tmienja u tletin is 38.",
+        "sena stays singular after -il and after a ten. A normal noun is plural: erba' persuni, għaxar snin."
+      ]
+    },
+    {
+      "id": "conversation",
+      "title": "Conversation",
+      "blurb": "Greetings, come and go, a shop, the time, and the weather.",
+      "kind": "phrases",
+      "lead": "Short lines you can use as they are. Where the ending changes for one person or for several, both forms are here.",
+      "groups": [
+        {
+          "title": "Greetings",
+          "items": [
+            {
+              "word": "Bonġu",
+              "means": "Good morning",
+              "formed": "Use this until about noon."
+            },
+            {
+              "word": "Bonswa",
+              "means": "Good afternoon, or good evening",
+              "formed": "Use this from the afternoon onward."
+            },
+            {
+              "word": "Ħelow",
+              "means": "Hello",
+              "formed": "This is the greeting in the lesson dialogue."
+            },
+            {
+              "word": "Għandi pjaċir",
+              "means": "Pleased to meet you"
+            },
+            {
+              "word": "Kif inti?",
+              "means": "How are you?",
+              "formed": "To one person. To several people: Kif intkom?"
+            },
+            {
+              "word": "Tajjeb, grazzi",
+              "means": "Fine, thank you"
+            },
+            {
+              "word": "Jekk jogħġbok",
+              "means": "Please"
+            },
+            {
+              "word": "Grazzi",
+              "means": "Thank you"
+            },
+            {
+              "word": "Skużani",
+              "means": "Excuse me"
+            },
+            {
+              "word": "Iva",
+              "means": "Yes"
+            },
+            {
+              "word": "Le",
+              "means": "No"
+            },
+            {
+              "word": "Saħħa",
+              "means": "Goodbye"
+            },
+            {
+              "word": "Ċaw",
+              "means": "Bye"
+            },
+            {
+              "word": "Narak",
+              "means": "See you"
+            },
+            {
+              "word": "Narak għada",
+              "means": "See you tomorrow"
+            }
+          ]
+        },
+        {
+          "title": "Come, go, wait",
+          "items": [
+            {
+              "word": "Ejja hawn",
+              "means": "Come here",
+              "formed": "To one person. To several: Ejjew hawn. You can also say Ejja 'l hawn.",
+              "example": "hawn",
+              "gloss": "here"
+            },
+            {
+              "word": "Mur hemm",
+              "means": "Go there",
+              "formed": "To one person. To several: Morru hemm.",
+              "example": "hemm",
+              "gloss": "there"
+            },
+            {
+              "word": "Stenna",
+              "means": "Wait",
+              "formed": "To one person. To several: Stennew."
+            },
+            {
+              "word": "Stennieni",
+              "means": "Wait for me",
+              "formed": "The -ni on the end means me. To several people: Stennewni."
+            }
+          ]
+        },
+        {
+          "title": "In a shop",
+          "items": [
+            {
+              "word": "Skużani, għandek...?",
+              "means": "Excuse me, do you have...?",
+              "formed": "Put the thing you want after għandek."
+            },
+            {
+              "word": "Nixtieq...",
+              "means": "I would like..."
+            },
+            {
+              "word": "Agħtini..., jekk jogħġbok",
+              "means": "Give me..., please",
+              "formed": "To one person. Agħtini is give me."
+            },
+            {
+              "word": "Dan",
+              "means": "this",
+              "formed": "Masculine. Feminine: din."
+            },
+            {
+              "word": "Kemm jiswa?",
+              "means": "How much is it?",
+              "formed": "jiswa for a masculine word. For a feminine word: Kemm tiswa?"
+            },
+            {
+              "word": "Nista' nħallas bil-kard?",
+              "means": "Can I pay by card?"
+            },
+            {
+              "word": "Bil-flus kontanti",
+              "means": "In cash"
+            },
+            {
+              "word": "Le, grazzi",
+              "means": "No, thank you"
+            },
+            {
+              "word": "Fejn insib...?",
+              "means": "Where can I find...?"
+            },
+            {
+              "word": "Fil-ħanut",
+              "means": "In the shop",
+              "formed": "Skużani, għandek ħobż? — Iva. — Ħobża waħda, jekk jogħġbok. Kemm tiswa? ħobża is feminine, so the question is tiswa."
+            }
+          ]
+        },
+        {
+          "title": "Time of day",
+          "items": [
+            {
+              "word": "X'hin hu?",
+              "means": "What time is it?"
+            },
+            {
+              "word": "Is-siegħa",
+              "means": "One o'clock",
+              "formed": "One o'clock uses siegħa, the hour. At one is fis-siegħa."
+            },
+            {
+              "word": "It-tlieta",
+              "means": "Three o'clock",
+              "formed": "The hour takes the article, like the days. At three is fit-tlieta. At ten is fl-għaxra."
+            },
+            {
+              "word": "It-tlieta u nofs",
+              "means": "Half past three",
+              "formed": "Add u nofs for half past."
+            },
+            {
+              "word": "It-tlieta u kwart",
+              "means": "Quarter past three",
+              "formed": "Add u kwart for quarter past."
+            },
+            {
+              "word": "It-tlieta nieqes kwart",
+              "means": "Quarter to three",
+              "formed": "nieqes kwart is quarter to."
+            },
+            {
+              "word": "filgħodu",
+              "means": "in the morning"
+            },
+            {
+              "word": "nofsinhar",
+              "means": "noon"
+            },
+            {
+              "word": "wara nofsinhar",
+              "means": "in the afternoon",
+              "example": "fit-tlieta wara nofsinhar",
+              "gloss": "at three in the afternoon"
+            },
+            {
+              "word": "filgħaxija",
+              "means": "in the evening"
+            },
+            {
+              "word": "billejl",
+              "means": "at night"
+            },
+            {
+              "word": "nofsillejl",
+              "means": "midnight"
+            },
+            {
+              "word": "issa",
+              "means": "now"
+            },
+            {
+              "word": "illum",
+              "means": "today"
+            },
+            {
+              "word": "għada",
+              "means": "tomorrow",
+              "formed": "The lesson dialogue uses Narak għada, see you tomorrow."
+            },
+            {
+              "word": "ilbieraħ",
+              "means": "yesterday"
+            }
+          ]
+        },
+        {
+          "title": "Weather",
+          "items": [
+            {
+              "word": "Kif inhu t-temp?",
+              "means": "What is the weather like?"
+            },
+            {
+              "word": "It-temp sabiħ",
+              "means": "The weather is fine"
+            },
+            {
+              "word": "Illum hemm ix-xemx",
+              "means": "It is sunny today"
+            },
+            {
+              "word": "Nieżla x-xita",
+              "means": "It is raining",
+              "formed": "xita is feminine, so the word is nieżla."
+            },
+            {
+              "word": "Illum imsaħħab",
+              "means": "It is cloudy today"
+            },
+            {
+              "word": "Hemm ir-riħ",
+              "means": "It is windy"
+            },
+            {
+              "word": "Kiesaħ ħafna",
+              "means": "It is very cold"
+            },
+            {
+              "word": "Sħun ħafna",
+              "means": "It is very hot"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

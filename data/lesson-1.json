@@ -1,0 +1,325 @@
+{
+  "lesson_id": 1,
+  "title": "Lesson 1: X'jismek?",
+  "status": "active",
+  "vocabulary": [
+    { "maltese": "Ħelow", "english": "Hello", "accept_english": ["Hi"] },
+    { "maltese": "Jien", "english": "I am", "accept_english": ["I"] },
+    {
+      "maltese": "X'jismek?",
+      "english": "What is your name?",
+      "accept_maltese": ["Int x'jismek?", "X'jismek"],
+      "accept_english": ["What's your name?"]
+    },
+    { "maltese": "Għandi pjaċir", "english": "Pleased to meet you" },
+    { "maltese": "Iva", "english": "Yes" },
+    { "maltese": "Le", "english": "No" },
+    { "maltese": "Iva, tajjeb ħafna", "english": "Yes, very good" },
+    { "maltese": "Narak", "english": "See you" },
+    { "maltese": "Narak għada", "english": "See you tomorrow" },
+    { "maltese": "Għada", "english": "Tomorrow" },
+    { "maltese": "Int minn fejn int?", "english": "Where are you from?" },
+    { "maltese": "Bil-Malti", "english": "in Maltese" },
+    { "maltese": "Bl-Ingliż", "english": "in English" },
+    { "maltese": "Jekk trid", "english": "If you want" },
+    { "maltese": "Nippreferi", "english": "I prefer" },
+
+    { "maltese": "art", "english": "a piece of land", "accept_english": ["land", "a floor", "floor", "a piece of land or a floor"] },
+    { "maltese": "bar", "english": "a bar" },
+    { "maltese": "ċoff", "english": "a bow" },
+    { "maltese": "dar", "english": "a house", "accept_english": ["house"] },
+    { "maltese": "envelop", "english": "an envelope", "accept_english": ["envelope"] },
+    { "maltese": "forn", "english": "an oven", "accept_english": ["oven"] },
+    { "maltese": "ġelat", "english": "an ice cream", "accept_english": ["ice cream"] },
+    { "maltese": "gomma", "english": "an eraser", "accept_english": ["eraser"] },
+    { "maltese": "għasfur", "english": "a bird", "accept_english": ["bird"] },
+    { "maltese": "hawn", "english": "here" },
+    { "maltese": "ħawħa", "english": "a peach", "accept_english": ["peach"] },
+    { "maltese": "ittra", "english": "a letter", "accept_english": ["letter"] },
+    { "maltese": "ieqaf", "english": "stop" },
+    { "maltese": "jot", "english": "a yacht", "accept_maltese": ["jott"], "accept_english": ["yacht"] },
+    { "maltese": "kejk", "english": "a cake", "accept_english": ["cake"] },
+    { "maltese": "lampa", "english": "a lamp", "accept_english": ["lamp"] },
+    { "maltese": "ma", "english": "mum", "accept_english": ["mom", "mother"] },
+    { "maltese": "nar", "english": "a fire", "accept_english": ["fire"] },
+    { "maltese": "ors", "english": "a bear", "accept_english": ["bear"] },
+    { "maltese": "pa", "english": "dad", "accept_english": ["father"] },
+    { "maltese": "qal", "english": "he said" },
+    { "maltese": "ras", "english": "a head", "accept_english": ["head"] },
+    { "maltese": "serp", "english": "a snake", "accept_english": ["snake"] },
+    { "maltese": "tina", "english": "a fig", "accept_english": ["fig"] },
+    { "maltese": "umbrella", "english": "an umbrella", "accept_english": ["umbrella"] },
+    { "maltese": "vann", "english": "a van", "accept_english": ["van"] },
+    { "maltese": "wejter", "english": "a waiter", "accept_english": ["waiter"] },
+    { "maltese": "xawer", "english": "a shower", "accept_english": ["shower"] },
+    { "maltese": "żrinġ", "english": "a frog", "accept_english": ["frog"] },
+    { "maltese": "zokk", "english": "a trunk", "accept_english": ["trunk"] },
+
+    { "maltese": "tabib", "english": "a doctor", "accept_english": ["doctor"] },
+    { "maltese": "imħabba", "english": "love", "accept_maltese": ["mħabba"] },
+    { "maltese": "skola", "english": "a school", "accept_english": ["school"] },
+    { "maltese": "paċi", "english": "peace" },
+    { "maltese": "rigal", "english": "a gift", "accept_english": ["gift", "a present", "present"] },
+    { "maltese": "nota", "english": "a note", "accept_english": ["note", "a mark", "mark", "a grade", "grade"] },
+    { "maltese": "sodda", "english": "a bed", "accept_english": ["bed"] },
+    { "maltese": "ħanut", "english": "a shop", "accept_english": ["shop"] },
+    { "maltese": "Milied", "english": "Christmas", "accept_maltese": ["Il-Milied"] },
+    { "maltese": "lejl", "english": "night", "accept_english": ["a night", "the night"] }
+  ],
+  "multiple_choice": [
+    {
+      "id": "mcq_1",
+      "question": "How many letters are in the Maltese alphabet?",
+      "options": ["30", "26", "24", "6"],
+      "answer": "30"
+    },
+    {
+      "id": "mcq_2",
+      "question": "How many of those letters are consonants?",
+      "options": ["24", "30", "6", "20"],
+      "answer": "24"
+    },
+    {
+      "id": "mcq_3",
+      "question": "How many of those letters are vowels?",
+      "options": ["6", "5", "24", "30"],
+      "answer": "6"
+    },
+    {
+      "id": "mcq_4",
+      "question": "Which list is the vowels?",
+      "options": ["a, e, i, ie, o, u", "a, e, i, o, u", "a, e, ie, o, u", "a, i, ie, o, u"],
+      "answer": "a, e, i, ie, o, u"
+    },
+    {
+      "id": "mcq_5",
+      "question": "Ie is written with two symbols. What is it in the alphabet?",
+      "options": ["One vowel", "Two vowels", "A consonant", "I followed by e"],
+      "answer": "One vowel"
+    },
+    {
+      "id": "mcq_6",
+      "question": "Għ is written with two symbols. What is it in the alphabet?",
+      "options": ["One consonant", "One vowel", "Two consonants", "A vowel"],
+      "answer": "One consonant"
+    },
+    {
+      "id": "mcq_7",
+      "question": "What is the capital letter of ħ?",
+      "options": ["Ħ", "H", "Għ", "Ċ"],
+      "answer": "Ħ"
+    },
+    {
+      "id": "mcq_8",
+      "question": "How do you say “Hello”?",
+      "options": ["Ħelow", "Narak", "Le", "Għada"],
+      "answer": "Ħelow"
+    },
+    {
+      "id": "mcq_9",
+      "question": "How do you say “Pleased to meet you”?",
+      "options": ["Għandi pjaċir", "X'jismek?", "Narak għada", "Iva, tajjeb ħafna"],
+      "answer": "Għandi pjaċir"
+    },
+    {
+      "id": "mcq_10",
+      "question": "How do you say “What is your name?”?",
+      "options": ["X'jismek?", "Int minn fejn int?", "Jien", "Għandi pjaċir"],
+      "answer": "X'jismek?"
+    },
+    {
+      "id": "mcq_11",
+      "question": "How do you say “See you tomorrow”?",
+      "options": ["Narak għada", "Narak", "Għada", "Ħelow"],
+      "answer": "Narak għada"
+    },
+    {
+      "id": "mcq_12",
+      "question": "How do you say “Yes, very good”?",
+      "options": ["Iva, tajjeb ħafna", "Iva", "Le", "Għandi pjaċir"],
+      "answer": "Iva, tajjeb ħafna"
+    },
+    {
+      "id": "mcq_13",
+      "question": "What does “art” mean in the alphabet list?",
+      "options": ["a piece of land", "a house", "a bird", "a letter"],
+      "answer": "a piece of land"
+    },
+    {
+      "id": "mcq_14",
+      "question": "“Zokkor” (sugar) starts with which letter?",
+      "options": ["z", "ż", "s", "ċ"],
+      "answer": "z"
+    },
+    {
+      "id": "mcq_15",
+      "question": "“Żrinġ” (a frog) starts with which letter?",
+      "options": ["ż", "z", "ġ", "g"],
+      "answer": "ż"
+    },
+    {
+      "id": "mcq_16",
+      "question": "Maltese is the national language of which islands?",
+      "options": ["Malta, Gozo, and Comino", "Malta only", "Sicily and Malta", "Gozo only"],
+      "answer": "Malta, Gozo, and Comino"
+    }
+  ],
+  "fill_in_blank": [
+    {
+      "id": "fib_1",
+      "sentence": "___rinġ",
+      "hint": "Missing letter, ż or z. A frog.",
+      "answer": "ż"
+    },
+    {
+      "id": "fib_2",
+      "sentence": "___okkor",
+      "hint": "Missing letter, ż or z. Sugar.",
+      "answer": "z"
+    },
+    {
+      "id": "fib_3",
+      "sentence": "___iraffa",
+      "hint": "Missing letter, ġ or g. A giraffe.",
+      "answer": "ġ"
+    },
+    {
+      "id": "fib_4",
+      "sentence": "___remxula",
+      "hint": "Missing letter, ġ or g. A lizard.",
+      "answer": "g"
+    },
+    {
+      "id": "fib_5",
+      "sentence": "___aqra",
+      "hint": "Missing letter, b or d. A cow.",
+      "answer": "b"
+    },
+    {
+      "id": "fib_6",
+      "sentence": "___enfil",
+      "hint": "Missing letter, b or d. A dolphin.",
+      "answer": "d"
+    },
+    {
+      "id": "fib_7",
+      "sentence": "lan___asa",
+      "hint": "Missing letter, ġ or ċ. A pear.",
+      "answer": "ġ"
+    },
+    {
+      "id": "fib_8",
+      "sentence": "___irasa",
+      "hint": "Missing letter, ġ or ċ. A cherry.",
+      "answer": "ċ"
+    },
+    {
+      "id": "fib_9",
+      "sentence": "ċapċi___",
+      "hint": "Missing letter, p or b. A clap.",
+      "answer": "p"
+    },
+    {
+      "id": "fib_10",
+      "sentence": "logħo___",
+      "hint": "Missing letter, p or b. A game.",
+      "answer": "b"
+    },
+    {
+      "id": "fib_11",
+      "sentence": "___erħana",
+      "hint": "Missing letter, f or v. Happy.",
+      "answer": "f"
+    },
+    {
+      "id": "fib_12",
+      "sentence": "supper___",
+      "hint": "Missing letter, f or v. He suffered.",
+      "answer": "v"
+    },
+    {
+      "id": "fib_13",
+      "sentence": "qa___rija",
+      "hint": "Missing letter, s or ż. A flowerpot.",
+      "answer": "s"
+    },
+    {
+      "id": "fib_14",
+      "sentence": "ħob___a",
+      "hint": "Missing letter, s or ż. A loaf.",
+      "answer": "ż"
+    },
+    {
+      "id": "fib_15",
+      "sentence": "___. Jien David.",
+      "hint": "Hello",
+      "answer": "Ħelow"
+    },
+    {
+      "id": "fib_16",
+      "sentence": "Int ___?",
+      "hint": "What is your name?",
+      "answer": "x'jismek"
+    },
+    {
+      "id": "fib_17",
+      "sentence": "___ Mark.",
+      "hint": "Pleased to meet you",
+      "answer": "Għandi pjaċir"
+    },
+    {
+      "id": "fib_18",
+      "sentence": "Iva, ___ għalija.",
+      "hint": "very good",
+      "answer": "tajjeb ħafna"
+    },
+    {
+      "id": "fib_19",
+      "sentence": "___ għada.",
+      "hint": "See you",
+      "answer": "Narak"
+    }
+  ],
+  "comprehension": {
+    "text": "David: Ħelow. Jien David. Int x'jismek?\nMark: Ħelow. Jien Mark.\nDavid: Għandi pjaċir Mark. Inti ġdid f'din l-iskola?\nMark: Iva, jien ingliż. Ġejna noqgħodu hawn Malta xi xahar ilu. Ma tantx naf nitkellem bil-Malti.\nDavid: Jekk trid nitkellmu bl-Ingliż.\nMark: Le, nippreferi nitkellmu bil-Malti. Int minn fejn int?\nDavid: Jien mill-Mellieħa. Ara daqqet il-qanpiena! Għada, niltaqgħu fil-brejk fuq dan il-bank?\nMark: Iva, tajjeb ħafna għalija. Narak għada.\nDavid: Narak!",
+    "questions": [
+      {
+        "id": "comp_1",
+        "question": "What is the new student's name?",
+        "options": ["Mark", "David", "Felix"],
+        "answer": "Mark"
+      },
+      {
+        "id": "comp_2",
+        "question": "Where is David from?",
+        "options": ["Mellieħa", "a school in England", "Gozo"],
+        "answer": "Mellieħa"
+      },
+      {
+        "id": "comp_3",
+        "question": "Which language does Mark prefer?",
+        "options": ["Maltese", "English"],
+        "answer": "Maltese"
+      },
+      {
+        "id": "comp_4",
+        "question": "What rang?",
+        "options": ["The bell", "A phone", "The clock"],
+        "answer": "The bell"
+      },
+      {
+        "id": "comp_5",
+        "question": "When do they agree to meet?",
+        "options": ["Tomorrow, during the break", "Today, after school", "Next month"],
+        "answer": "Tomorrow, during the break"
+      },
+      {
+        "id": "comp_6",
+        "question": "How long ago did Mark's family come to live in Malta?",
+        "options": ["One month ago", "One year ago", "One week ago"],
+        "answer": "One month ago"
+      }
+    ]
+  },
+  "revision": []
+}

@@ -1,0 +1,297 @@
+{
+  "lesson_id": 2,
+  "title": "Lesson 2: Il-familja tiegħi",
+  "status": "active",
+  "vocabulary": [
+    { "maltese": "in-nannu", "english": "the grandfather", "accept_maltese": ["nannu"], "accept_english": ["grandfather", "a grandpa", "grandpa", "the grandpa"] },
+    { "maltese": "in-nanna", "english": "the grandmother", "accept_maltese": ["nanna"], "accept_english": ["grandmother", "a grandma", "grandma", "the grandma"] },
+    { "maltese": "iz-zija", "english": "the aunt", "accept_maltese": ["zija"], "accept_english": ["aunt", "an aunt"] },
+    { "maltese": "iz-ziju", "english": "the uncle", "accept_maltese": ["ziju"], "accept_english": ["uncle", "an uncle"] },
+    { "maltese": "ommi", "english": "my mother", "accept_english": ["mother"] },
+    { "maltese": "missieri", "english": "my father", "accept_english": ["father"] },
+    { "maltese": "ħija", "english": "my brother", "accept_english": ["brother"] },
+    { "maltese": "oħti", "english": "my sister", "accept_english": ["sister"] },
+    { "maltese": "jien", "english": "I", "accept_english": ["me"] },
+    { "maltese": "l-kuġina", "english": "the female cousin", "accept_maltese": ["kuġina"], "accept_english": ["female cousin", "a female cousin", "cousin"] },
+    { "maltese": "l-kuġin", "english": "the male cousin", "accept_maltese": ["kuġin"], "accept_english": ["male cousin", "a male cousin", "cousin"] },
+    { "maltese": "il-familja", "english": "the family", "accept_maltese": ["familja"], "accept_english": ["family", "a family"] },
+    { "maltese": "kelb", "english": "a dog", "accept_english": ["dog"] },
+    { "maltese": "mara tad-dar", "english": "a housewife", "accept_english": ["housewife"] },
+    { "maltese": "veterinarju", "english": "a veterinarian", "accept_english": ["veterinarian", "a vet", "vet"] },
+    { "maltese": "l-iskola", "english": "the school", "accept_english": ["school"] },
+    { "maltese": "ir-raħal", "english": "the village", "accept_maltese": ["raħal"], "accept_english": ["village", "a village"] },
+    { "maltese": "erba'", "english": "four", "accept_english": ["4"] },
+    { "maltese": "għaxar", "english": "ten", "accept_maltese": ["għaxra"], "accept_english": ["10"] },
+    { "maltese": "erbatax-il", "english": "fourteen", "accept_maltese": ["erbatax"], "accept_english": ["14"] },
+    { "maltese": "tmienja u tletin", "english": "thirty-eight", "accept_english": ["38", "thirty eight"] },
+    { "maltese": "erbgħin", "english": "forty", "accept_english": ["40"] }
+  ],
+  "multiple_choice": [
+    {
+      "id": "mcq_1",
+      "question": "If the aunt and uncle have a daughter, what do you call her?",
+      "options": ["l-kuġina", "l-kuġin", "oħti", "iz-zija"],
+      "answer": "l-kuġina"
+    },
+    {
+      "id": "mcq_2",
+      "question": "If the aunt and uncle have a son, what do you call him?",
+      "options": ["l-kuġin", "l-kuġina", "ħija", "iz-ziju"],
+      "answer": "l-kuġin"
+    },
+    {
+      "id": "mcq_3",
+      "question": "How do you say “my mother”?",
+      "options": ["ommi", "missieri", "oħti", "in-nanna"],
+      "answer": "ommi"
+    },
+    {
+      "id": "mcq_4",
+      "question": "How do you say “my father”?",
+      "options": ["missieri", "ommi", "ħija", "in-nannu"],
+      "answer": "missieri"
+    },
+    {
+      "id": "mcq_5",
+      "question": "How do you say “my sister”?",
+      "options": ["oħti", "ħija", "l-kuġina", "iz-zija"],
+      "answer": "oħti"
+    },
+    {
+      "id": "mcq_6",
+      "question": "Before a vowel, and before għ or h, the article is",
+      "options": ["l-", "il-", "iċ-", "in-"],
+      "answer": "l-"
+    },
+    {
+      "id": "mcq_7",
+      "question": "Which letters are the sun consonants?",
+      "options": ["ċ, d, n, r, s, t, x, ż, z", "b, f, ġ, g, ħ, j, k", "a, e, i, ie, o, u", "għ, h, ħ, q"],
+      "answer": "ċ, d, n, r, s, t, x, ż, z"
+    },
+    {
+      "id": "mcq_8",
+      "question": "How do the notes write “the key”?",
+      "options": ["iċ-ċavetta", "il-ċavetta", "l-ċavetta", "ċavetta"],
+      "answer": "iċ-ċavetta"
+    },
+    {
+      "id": "mcq_9",
+      "question": "How do the notes write “the father”?",
+      "options": ["il-missier", "l-missier", "im-missier", "missier"],
+      "answer": "il-missier"
+    },
+    {
+      "id": "mcq_10",
+      "question": "How do the notes write “the eye”?",
+      "options": ["l-għajn", "il-għajn", "igħ-għajn", "għajn"],
+      "answer": "l-għajn"
+    },
+    {
+      "id": "mcq_11",
+      "question": "How do the notes write “the joy”?",
+      "options": ["l-hena", "il-hena", "ih-hena", "hena"],
+      "answer": "l-hena"
+    },
+    {
+      "id": "mcq_12",
+      "question": "Which sentence matches the notes? The word before the article ends in a vowel.",
+      "options": ["Dan huwa l-pjanist.", "Dan huwa il-pjanist.", "Dan huwa iċ-pjanist.", "Dan huwa in-pjanist."],
+      "answer": "Dan huwa l-pjanist."
+    },
+    {
+      "id": "mcq_13",
+      "question": "How do the notes write “the school”?",
+      "options": ["l-iskola", "is-skola", "il-skola", "skola"],
+      "answer": "l-iskola"
+    }
+  ],
+  "fill_in_blank": [
+    {
+      "id": "fib_1",
+      "sentence": "___arblu",
+      "hint": "The article. The pole.",
+      "answer": "l-"
+    },
+    {
+      "id": "fib_2",
+      "sentence": "___tifla",
+      "hint": "The article. The girl.",
+      "answer": "it-"
+    },
+    {
+      "id": "fib_3",
+      "sentence": "___ilsien",
+      "hint": "The article. The tongue.",
+      "answer": "l-"
+    },
+    {
+      "id": "fib_4",
+      "sentence": "___qattusa",
+      "hint": "The article. The cat.",
+      "answer": "il-"
+    },
+    {
+      "id": "fib_5",
+      "sentence": "___xibka",
+      "hint": "The article. The net.",
+      "answer": "ix-"
+    },
+    {
+      "id": "fib_6",
+      "sentence": "___omm",
+      "hint": "The article. The mother.",
+      "answer": "l-"
+    },
+    {
+      "id": "fib_7",
+      "sentence": "___hena",
+      "hint": "The article. The joy.",
+      "answer": "l-"
+    },
+    {
+      "id": "fib_8",
+      "sentence": "___għasfur",
+      "hint": "The article. The bird.",
+      "answer": "l-"
+    },
+    {
+      "id": "fib_9",
+      "sentence": "___ċavetta",
+      "hint": "The article. The key.",
+      "answer": "iċ-"
+    },
+    {
+      "id": "fib_10",
+      "sentence": "___missier",
+      "hint": "The article. The father.",
+      "answer": "il-"
+    },
+    {
+      "id": "fib_11",
+      "sentence": "___għajn",
+      "hint": "The article. The eye.",
+      "answer": "l-"
+    },
+    {
+      "id": "fib_12",
+      "sentence": "___nanna",
+      "hint": "The article. The grandma.",
+      "answer": "in-"
+    },
+    {
+      "id": "fib_13",
+      "sentence": "___zokk",
+      "hint": "The article. The stem.",
+      "answer": "iz-"
+    },
+    {
+      "id": "fib_14",
+      "sentence": "Dan huwa ___pjanist.",
+      "hint": "The article. The word before ends in a vowel.",
+      "answer": "l-"
+    },
+    {
+      "id": "fib_15",
+      "sentence": "Jekk iz-zijiet ikollhom tifla, ngħidulha l-___.",
+      "hint": "female cousin",
+      "answer": "kuġina"
+    },
+    {
+      "id": "fib_16",
+      "sentence": "Jekk iz-zijiet ikollhom tifel, ngħidulu l-___.",
+      "hint": "male cousin",
+      "answer": "kuġin"
+    }
+  ],
+  "comprehension": {
+    "text": "Il-familja tiegħi hija magħmula minn erba' (4) persuni. Jien it-tifel iż-żgħir tal-familja. Għandi għaxar snin (10) u għadni mmur l-iskola primarja tar-raħal. Għandi oħti ikbar minni. Jisimha Caroline u għandha erbatax-il sena (14). Hi tmur l-iskola sekondarja f'raħal ieħor. Ommi jisimha Marija. Hi għandha tmienja u tletin sena (38) u hija mara tad-dar. Missieri Felix, għandu erbgħin sena (40) u jaħdem bħala veterinarju. Għandu l-klinika privata tiegħu. Aħna noqgħodu l-Mellieħa f'dar imdaqqsa. In-nanna Tereża kienet toqgħod magħna imma issa mietet. Għandna wkoll kelb jismu Niko.",
+    "questions": [
+      {
+        "id": "comp_1",
+        "question": "How many people are in David's family?",
+        "options": ["Four", "Three", "Five"],
+        "answer": "Four"
+      },
+      {
+        "id": "comp_2",
+        "question": "How old is David?",
+        "options": ["Ten", "Fourteen", "Forty"],
+        "answer": "Ten"
+      },
+      {
+        "id": "comp_3",
+        "question": "What is his sister's name, and how old is she?",
+        "options": ["Caroline, fourteen", "Marija, thirty-eight", "Tereża, forty"],
+        "answer": "Caroline, fourteen"
+      },
+      {
+        "id": "comp_4",
+        "question": "What does his mother do?",
+        "options": ["She is a housewife", "She is a veterinarian", "She is at primary school"],
+        "answer": "She is a housewife"
+      },
+      {
+        "id": "comp_5",
+        "question": "What is his father's name, and what is his job?",
+        "options": ["Felix, a veterinarian", "Niko, a veterinarian", "Felix, a teacher"],
+        "answer": "Felix, a veterinarian"
+      },
+      {
+        "id": "comp_6",
+        "question": "Where do they live?",
+        "options": ["In Mellieħa, in a medium-sized house", "In another village, in a school", "In a clinic"],
+        "answer": "In Mellieħa, in a medium-sized house"
+      },
+      {
+        "id": "comp_7",
+        "question": "What does the paragraph say about nanna Tereża?",
+        "options": ["She used to live with them, and now she has died", "She still lives with them", "She works in the clinic"],
+        "answer": "She used to live with them, and now she has died"
+      },
+      {
+        "id": "comp_8",
+        "question": "What is the dog's name?",
+        "options": ["Niko", "Felix", "Caroline"],
+        "answer": "Niko"
+      }
+    ]
+  },
+  "revision": [
+    {
+      "from_lesson": 1,
+      "type": "mcq",
+      "question": "How do you say “Hello”?",
+      "options": ["Ħelow", "Narak", "Le", "Iva"],
+      "answer": "Ħelow"
+    },
+    {
+      "from_lesson": 1,
+      "type": "mcq",
+      "question": "How many letters are in the Maltese alphabet?",
+      "options": ["30", "26", "24", "6"],
+      "answer": "30"
+    },
+    {
+      "from_lesson": 1,
+      "type": "mcq",
+      "question": "What does “Għandi pjaċir” mean?",
+      "options": ["Pleased to meet you", "See you tomorrow", "What is your name?", "Very good"],
+      "answer": "Pleased to meet you"
+    },
+    {
+      "from_lesson": 1,
+      "type": "fib",
+      "sentence": "Int ___?",
+      "hint": "What is your name?",
+      "answer": "x'jismek"
+    },
+    {
+      "from_lesson": 1,
+      "type": "fib",
+      "sentence": "___rinġ",
+      "hint": "Missing letter. A frog.",
+      "answer": "ż"
+    }
+  ]
+}
