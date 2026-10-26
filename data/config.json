@@ -1,5 +1,5 @@
 {
   "leaderboardUrl": "",
-  "supabaseUrl": "",
-  "supabaseAnonKey": ""
+  "supabaseUrl": "https://frcvvwmyzgdajmlqnllr.supabase.co",
+  "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZyY3Z2d215emdkYWptbHFubGxyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTMwMjQ2OTUsImV4cCI6MjEwODYwMDY5NX0.7zl61lZa4QAk0vxbgTzRPIyxbeziifW36KMbkGJRlNk"
 }
